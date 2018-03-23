@@ -1,5 +1,6 @@
 /**
  * Developer: Nathan Kurz (NatCom)
+ * Date: 03/22/2018
  *      - I rewrote this program so that I could practice creating programs properly 
  *        using a namespace, header file, and implementation file
  * 

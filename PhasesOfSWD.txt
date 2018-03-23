@@ -1,0 +1,45 @@
+Data Structure - collection of organized data 
+
+Phases of Software Development:
+    - Specification of the task
+    - Design of a solution
+    - Implementation of the solution
+    - Analysis of the solution
+    - Testing and debugging
+    - Maintenance and evolution of the system
+    - Obsoloscence
+
+C++
+    - Designed by Bjarne Stroustrup (AT&T Bell Laboratories)
+    - Extension of C 
+    - Supports OOP (Object Oriented Programming)
+        - technique that encourages important strategies of information hiding
+          and component reuse.
+
+Specification, Design, Implementation:
+    - Specification: a precise description of the problem
+    - Design: formulating the steps to solve the problem
+    - Implementation: code to carry out the Design
+    - Algorithm: set of instructions to solve a problem
+    - Pseudocode: mixture of English and code 
+
+Decomposing the problem
+    - break down the problem into a few subtasks, decompose each subtask into smaller subtasks, and so forth.
+    
+- Preconditions and Postconditions
+    - Preconditions: statement giving the condition that is required to be true when a function is called.
+      The function is not guaranteed to perform as it should unless the precondition is true
+    - Postcondition: statement describing what will be true when a function call is completed. If the function
+      is correct and the precondition was true when the function was called, then the function will complete, 
+      then the function will complete, and the postcondition will be true when the function call is completed
+    - Example: 
+        double celsius_to_fahrenheit(double c); // <-- prototype
+        // Precondition: c is a Celsius temperature no less than absolute zero (-273.15)
+        // Postcondition: The return value is the temerature c converted to Fahrenheit degrees
+
+- Procedural Abstraction
+    - simplifies your reasoning by abstracting away irrelevant details
+
+- Function prototype
+    - consists of a function's return type, name, and parameter list, all followed by a semicolon. 
+    

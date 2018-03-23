@@ -12,5 +12,10 @@ The README will include a list of all of the programs with a short description o
 3. circleLocation
     - circleLocation tracks a point on a circle's edge using angles (degrees). The directory includes the header file, implementation file, and a small test file.
 
+4. point
+    - point is a class that can create a point object with an x and y coordinate. It contains functions that can manipulate the points location, as well as operator overload functions for point addition and equality testing.
+
+    
+
 
 
